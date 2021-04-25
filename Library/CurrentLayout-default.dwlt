@@ -21,7 +21,7 @@ MonoBehaviour:
   m_ShowMode: 4
   m_Title: Project
   m_RootView: {fileID: 9}
-  m_MinSize: {x: 875, y: 492}
+  m_MinSize: {x: 875, y: 471}
   m_MaxSize: {x: 10000, y: 10000}
   m_Maximized: 1
 --- !u!114 &2
@@ -71,10 +71,10 @@ MonoBehaviour:
     y: 0
     width: 712
     height: 1307
-  m_MinSize: {x: 276, y: 342}
-  m_MaxSize: {x: 10001, y: 14042}
+  m_MinSize: {x: 275, y: 321}
+  m_MaxSize: {x: 10001, y: 14021}
   vertical: 1
-  controlID: 83
+  controlID: 22
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -94,8 +94,8 @@ MonoBehaviour:
     y: 0
     width: 432
     height: 660
-  m_MinSize: {x: 202, y: 221}
-  m_MaxSize: {x: 4002, y: 4021}
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 17}
   m_Panes:
   - {fileID: 17}
@@ -122,10 +122,10 @@ MonoBehaviour:
     y: 647
     width: 1848
     height: 660
-  m_MinSize: {x: 403, y: 221}
-  m_MaxSize: {x: 8003, y: 4021}
+  m_MinSize: {x: 401, y: 221}
+  m_MaxSize: {x: 8001, y: 4021}
   vertical: 0
-  controlID: 113
+  controlID: 115
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -147,10 +147,10 @@ MonoBehaviour:
     y: 30
     width: 2560
     height: 1307
-  m_MinSize: {x: 679, y: 442}
-  m_MaxSize: {x: 18004, y: 14042}
+  m_MinSize: {x: 676, y: 421}
+  m_MaxSize: {x: 18002, y: 14021}
   vertical: 0
-  controlID: 82
+  controlID: 21
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -170,8 +170,8 @@ MonoBehaviour:
     y: 0
     width: 712
     height: 821
-  m_MinSize: {x: 276, y: 71}
-  m_MaxSize: {x: 4001, y: 4021}
+  m_MinSize: {x: 275, y: 50}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 16}
   m_Panes:
   - {fileID: 16}
@@ -196,8 +196,8 @@ MonoBehaviour:
     y: 0
     width: 1416
     height: 660
-  m_MinSize: {x: 201, y: 221}
-  m_MaxSize: {x: 4001, y: 4021}
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 19}
   m_Panes:
   - {fileID: 20}
@@ -226,7 +226,7 @@ MonoBehaviour:
     y: 0
     width: 2560
     height: 1357
-  m_MinSize: {x: 875, y: 492}
+  m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
   m_UseTopView: 1
   m_TopViewHeight: 30
@@ -299,10 +299,10 @@ MonoBehaviour:
     y: 0
     width: 1848
     height: 1307
-  m_MinSize: {x: 403, y: 442}
-  m_MaxSize: {x: 8003, y: 8042}
+  m_MinSize: {x: 401, y: 421}
+  m_MaxSize: {x: 8001, y: 8021}
   vertical: 1
-  controlID: 88
+  controlID: 114
 --- !u!114 &13
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -322,8 +322,8 @@ MonoBehaviour:
     y: 0
     width: 1848
     height: 647
-  m_MinSize: {x: 201, y: 221}
-  m_MaxSize: {x: 4001, y: 4021}
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 18}
   m_Panes:
   - {fileID: 18}
@@ -408,7 +408,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 40400000
     m_LastClickedID: 16448
-    m_ExpandedIDs: 000000004040000000ca9a3b
+    m_ExpandedIDs: 0000000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -557,9 +557,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
+      m_SelectedIDs: 52400000
       m_LastClickedID: 0
-      m_ExpandedIDs: 40fbffff
+      m_ExpandedIDs: d4edffff32eeffffe8eefffffceeffff8af4ffff48f5ffff60f5fffffef6ffff14f7ffff36f7ffff8cfaffff40fbffff70400000e240000032450000b05600001c570000845d0000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -755,7 +755,7 @@ MonoBehaviour:
     m_VAllowExceedBaseRangeMax: 1
     m_ScaleWithWindow: 0
     m_HSlider: 0
-    m_VSlider: 1
+    m_VSlider: 0
     m_IgnoreScrollWheelUntilClicked: 0
     m_EnableMouseInput: 1
     m_EnableSliderZoomHorizontal: 0
@@ -768,7 +768,7 @@ MonoBehaviour:
       y: 21
       width: 1415
       height: 618
-    m_Scale: {x: 0.59166664, y: 0.59166664}
+    m_Scale: {x: 0.57222223, y: 0.57222223}
     m_Translation: {x: 707.5, y: 309}
     m_MarginLeft: 0
     m_MarginRight: 0
@@ -776,12 +776,12 @@ MonoBehaviour:
     m_MarginBottom: 0
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
-      x: -1195.7747
-      y: -522.25354
-      width: 2391.5493
-      height: 1044.5071
+      x: -1236.4077
+      y: -540
+      width: 2472.8154
+      height: 1080
     m_MinimalGUI: 1
-  m_defaultScale: 0.59166664
+  m_defaultScale: 0.57222223
   m_LastWindowPixelSize: {x: 1415, y: 639}
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
